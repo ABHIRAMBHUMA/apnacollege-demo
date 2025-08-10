@@ -1,4 +1,4 @@
 # apnacollege-demo
 GitHub Tutorial
 <br>
-Author - Abhi Ram
+Author - Abhi Ram Bhuma
